@@ -59,7 +59,7 @@ The “Details” section provides raw trip-level data including:
 ## 📁 Files Included
 
 - `Uber_Trip_Analysis.pbix` – Power BI project file
-- Project screenshots (for quick preview)
+
 
 ---
 
